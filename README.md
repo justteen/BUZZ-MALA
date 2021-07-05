@@ -25,5 +25,8 @@ Super Fast Telegram UserBot Made With Python.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/justteen/malabashrun)
 
- 
+# StringSession
+
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@justteen/String-Session) 
+
 
