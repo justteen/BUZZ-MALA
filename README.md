@@ -5,7 +5,7 @@ Super Fast Telegram UserBot Made With Python.
 
 # _**ＬＯＧＯ**_
 <p align="center">
-  <a href="https://">
+  <a href="https://t.me/psycho_syridwan">
     <img src="https://telegra.ph/file/11e94d49e5fd5407be4ff.png">
   </a>
 </p> 
