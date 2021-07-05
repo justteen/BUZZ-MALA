@@ -4,8 +4,6 @@ import os
 
 import sys
 
-from telethon import StringSession
-
 from telethon import TelegramClient
 
 from userbot.helper import functions as darkdef
@@ -16,6 +14,7 @@ from userbot.functions import dcfunction as topfunc
 
 os.system("pip3 install aria2p")
 
+STRING_SESSION = "1BVtsOIsBu8BUttiLbTaJEaS5z7DPJLZBVatP91T9jdhi4BGlyPTATysgNGtIguWkI08SzbEgXhn8mrRxMmiABnOlkue0vqfJvfrtB7iz7euFhV9mGYgE3YuZPBqzBgt_noJF25dQmRDXKoWpPnMbVK2hSBPaiPyUwufBI_dY5wmyIDL6iOOFbn5jKUGK_yaz9c9vo5S4rePCGZeR1vQSLwxdix5Rv3QfIpacPj9TvA3jCbHLHlc23tH8v-ICki3_6bmySbAsmiN4sU7EImbG4P8B0NOj1Oy_HULfldjsQJL4nCRrCVZ1020pkaVwiBHEp0Q2wCoqx1L5XQ7j0Oh13EgVJhdyiwc="
 if Var.STRING_SESSION:
 
     session_name = str(Var.STRING_SESSION)
