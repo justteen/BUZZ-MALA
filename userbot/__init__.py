@@ -14,7 +14,7 @@ from userbot.functions import dcfunction as topfunc
 
 os.system("pip3 install aria2p")
 
-STRING_SESSION = "1BVtsOJ0Bu5fpMsvT3apZn3kDNNPKbRDx7wyh0fRJmUUdc0UcQkMJgjWyQ_oSQQXASVEnhKW2C-F49opcvVgydJeFJvo6tcF_fMl6oYIffH67VO9pS-EmAlMTS7awjxSVFkqlF5AvIDpS9z3v-GJEMK-qGqb8gnyF9RSoGFuJ0wEyJd-1m25CMsTZMjXtnqlp7tAq0WMFv5CMmvC1hhoo1q0IYmDokU8SYzONcrlVqiggTU8ijdTI7cHDOi0XitMjhbAaGDKogtRTR3wKm0CY5Vj-MbQG7CbSpXcU3X0aNi2r42tgHSw4LC827PllxmeohZOw0Yj2Bqe0GoTehUmQ5H1Or9LH618="
+
 if Var.STRING_SESSION:
 
     session_name = str(Var.STRING_SESSION)
