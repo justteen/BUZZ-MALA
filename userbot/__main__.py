@@ -112,7 +112,7 @@ else:
 
     print("Assitant tidak dapat memuat karena kamu blok")
 
-print("BUZZ-MALA userbot DAN ASISTENMU TELAH GABUNG @supbuz For Updates.")
+print("BUZZ userbot DAN ASISTENMU TELAH GABUNG @supbuz For Updates.")
 
 if len(argv) not in (1, 3, 4):
 
