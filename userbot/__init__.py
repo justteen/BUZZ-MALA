@@ -4,7 +4,7 @@ import os
 
 import sys
 
-from telethon import Client
+from telethon import TelegramClient
 
 from userbot.helper import functions as darkdef
 
@@ -19,7 +19,7 @@ if Var.STRING_SESSION:
 
     session_name = str(Var.STRING_SESSION)
 
-    bot = Client(StringSession(session_name), Var.APP_ID, Var.API_HASH)
+    bot = TelegramClient(StringSession(session_name), Var.APP_ID, Var.API_HASH)
 
 else:
 
